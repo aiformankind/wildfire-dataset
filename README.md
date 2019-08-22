@@ -8,3 +8,7 @@ The goal is to curate wildfire smoke datasets to enable open sharing and ease of
 
 #### Images by AI for Mankind
 1. [No Smoke: Mountain Forest with Clear Sky](https://drive.google.com/file/d/1K135B5mm1N0bPq6IAWjizOdUJnym3Uzw/view?usp=sharing)
+
+#### Companies Working on Wildfire Monitoring System
+[SmokeD by IT For Nature](https://smokedsystem.com/)
+[Insight Robotics](https://www.insightrobotics.com)
