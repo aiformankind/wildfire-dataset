@@ -4,11 +4,11 @@ Open Wildfire Smoke Datasets
 The goal is to curate wildfire smoke datasets to enable open sharing and ease of access of datasets for developing vision based wildfire detection models. Easy access and open sharing of datasets will facilitate and accelerate the research efforts in solving wildfire crisis.
 
 #### List of Wildfire Datasets
-1. [Center for Wildfire Research of University of Split, Croatia](http://wildfire.fesb.hr/index.php?option=com_content&view=article&id=49&Itemid=54)
+1. [HPWREN Wildfire Smoke Image Sequences](https://drive.google.com/file/d/1mK6gmBn_gH0k02khAVYOMCORpv-0na7G/view?usp=sharing)
+2. [Annotated HPWREN Wildfire Smoke Images](https://drive.google.com/file/d/1L7SuVDEKanNV9ptfCc2B-Ws1ZpbbRWsN/view?usp=sharing)
+3. [Center for Wildfire Research of University of Split, Croatia](http://wildfire.fesb.hr/index.php?option=com_content&view=article&id=49&Itemid=54)
 
-#### Images by AI for Mankind
-1. [No Smoke: Mountain Forest with Clear Sky](https://drive.google.com/file/d/1K135B5mm1N0bPq6IAWjizOdUJnym3Uzw/view?usp=sharing)
-
+Learn more about [HPWREN](http://hpwren.ucsd.edu/)
 #### Companies that Develop Wildfire Detection System
 * [ForestWatch by EnviroVision Solutions](http://evsusa.biz/)
 * [IQ FireWatch by IQ wireless GmbH of Germany](https://www.iq-firewatch.com/)
